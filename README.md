@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Vinícius Trindade! 🫡
 
+⚙ Information Technology Management 
+🧑🏼‍💻 Infrastructure Technician / Back-end Developer 
+📚 I love studying programming
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-trindade-da-silva/)
 [![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciustrindadee_/)
 
