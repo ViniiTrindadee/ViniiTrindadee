@@ -34,13 +34,13 @@
 
 ---
 
-### 📌 Projetos em Destaque:
+### 🛠️ O que eu faço:
 
-- **[Sistema de Dashboards de Vendas](https://github.com/ViniiTrindadee/Dashboard-de-Vendas)**  
-  _Um sistema de visualização que integra dados do MySQL em dashboards criados no Power BI, focando em métricas de vendas e KPIs._
-
-- **[Automação ETL com Airflow](https://github.com/ViniiTrindadee/Pipeline-Airflow)**  
-  _Automatizei processos de ETL, desde extração até carregamento, utilizando Apache Airflow para um pipeline escalável._
+- **Dashboards Interativos:** Criação de painéis no **Power BI** e **Tableau**, otimizados para análises estratégicas e tomada de decisões.  
+- **Análise de Dados:** Processamento e análise de dados com **Python** e bibliotecas como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**.  
+- **ETL e Pipelines de Dados:** Desenvolvimento e automação de fluxos de dados utilizando **Apache Airflow**.  
+- **Gestão de Bancos de Dados:** Modelagem e consultas SQL em **SQL Server** e **MySQL**.  
+- **Modelos Preditivos:** Implementação de algoritmos de machine learning para previsões e otimização de processos.
 
 ---
 
