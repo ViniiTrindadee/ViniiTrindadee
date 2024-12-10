@@ -1,27 +1,62 @@
-### Olá! Eu sou o Vinícius Trindade! 🫡
+# Vinícius Trindade da Silva
 
-⚙ Information Technology Management 
-🧑🏼‍💻 Infrastructure Technician / Back-end Developer 
-📚 I love studying programming
+**Analista de Dados | ViniiTrindadee**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-trindade-da-silva/)
-[![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciustrindadee_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-trindade-da-silva/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniiTrindadee)
 
-![Vinicius Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiTrindadee&hide_progress=true)
+---
 
-### Tecnologias que eu uso no meu dia
+### Olá! Eu sou o Vinícius Trindade! 👨‍💻
 
-<div style="display: inline block"><br/>
-<img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="C++" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+🎯 **Especialista em Análise de Dados e Engenharia de Dados**  
+📊 Transformo dados em insights estratégicos para decisões assertivas  
+🚀 Apaixonado por criar soluções otimizadas e escaláveis na área de dados
 
+---
+
+### ⚙️ Tecnologias que uso no meu dia a dia:
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logoColor=white" alt="ETL">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 </div>
 
-<br>
+---
 
-Apaixonado por tecnologia e pela capacidade de transformar a vida das pessoas por meio da programação, estou constantemente aprendendo e buscando novos desafios.
+### 🌟 Linguagens mais usadas:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiTrindadee&hide_progress=true)
+
+---
+
+### 🛠️ O que eu faço:
+
+- **Dashboards Interativos:** Criação de painéis no **Power BI** e **Tableau**, otimizados para análises estratégicas e tomada de decisões.  
+- **Análise de Dados:** Processamento e análise de dados com **Python** e bibliotecas como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**.  
+- **ETL e Pipelines de Dados:** Desenvolvimento e automação de fluxos de dados utilizando **Apache Airflow**.  
+- **Gestão de Bancos de Dados:** Modelagem e consultas SQL em **SQL Server** e **MySQL**.  
+- **Modelos Preditivos:** Implementação de algoritmos de machine learning para previsões e otimização de processos.
+
+---
+
+### 📌 Projetos em Destaque:
+
+- **[Sistema de Dashboards de Vendas](https://github.com/ViniiTrindadee/Dashboard-de-Vendas)**  
+  _Um sistema de visualização que integra dados do MySQL em dashboards criados no Power BI, focando em métricas de vendas e KPIs._
+
+- **[Automação ETL com Airflow](https://github.com/ViniiTrindadee/Pipeline-Airflow)**  
+  _Automatizei processos de ETL, desde extração até carregamento, utilizando Apache Airflow para um pipeline escalável._
+
+---
+
+### 🌟 Sobre mim:
+Sou apaixonado por **dados** e pela capacidade de transformá-los em **decisões estratégicas**. Sempre em busca de novos desafios, estudo continuamente para aprimorar minhas habilidades em **análise de dados**, **engenharia de dados**, e **visualização**. 🚀
+
+📧 **Contato:** [viniciustrindadedasilva@gmail.com](mailto:viniciustrindadedasilva@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/vinicius-trindade-da-silva](https://www.linkedin.com/in/vinicius-trindade-da-silva)  
+💼 **GitHub:** [github.com/ViniiTrindadee](https://github.com/ViniiTrindadee)
